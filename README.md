@@ -3,7 +3,7 @@ cellSM5100B
 
 arduino library mainly to send/receive SMSs and interact directly to this shield.
 
-I start to program this library to control my parents country house heaters and inform them what temperature is in there through SMSs messages. It is currently in beta version (also this library  XD  )
+I started this library to control my parents country house heaters and inform them what temperature is in there through SMSs messages. It is currently in beta version (also this library  XD  )
 Feel free to comment in a constructive way!  ;)
 
 /*
